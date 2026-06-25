@@ -1,7 +1,4 @@
 print("first part")
 print("Second part")
 print("Third part")
-print("4th")
-print("5th")
-print("hello")
-print("New line")
+print("Hridik")
